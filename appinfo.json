@@ -4,13 +4,20 @@
         ""
     ],
     "companyName": "jloloew@gmail.com",
-    "longName": "colon-p",
+    "longName": "Colon-P",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/Menu-image.png",
+                "menuIcon": true,
+                "name": "MENU_IMAGE",
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "2",
-    "shortName": "colon-p",
+    "shortName": "Colon-P",
     "uuid": "3d3b9e6d-6f0e-4fa0-b072-d54888e394de",
     "versionCode": 1,
     "versionLabel": "1.0",
